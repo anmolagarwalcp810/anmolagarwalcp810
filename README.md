@@ -6,7 +6,7 @@ I also worked as full-time software engineer for 1 year at Microsoft with Micros
 
 I am currently part of [SAIL Lab](https://gatech-sysml.github.io) at Georgia Tech working to advance systems support and resource management for large scale models and democratize large-scale machine learning. I have also worked on and contributed to [EvaDB](https://github.com/georgia-tech-db/evadb) which a framework to integrate new AI models and leverage them through SQL APIs.
 
-I am highly interested in Systems and Machine Learning domain, and am willing to work on/learn anything related these fields.
+I am highly interested in Systems and Machine Learning domain, and am willing to work on/learn anything related to these fields.
 
 <!--
 **anmolagarwalcp810/anmolagarwalcp810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
